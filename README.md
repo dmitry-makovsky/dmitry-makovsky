@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi GitHub 👋
 
+My name is Dmitry, I am a Full Stack Web Developer from Russia.
+
+Javascript is my main programming language.
+
+You can contact me by [email](mailto:dima@makovsky.me) or [telegram](https://t.me/d_mkvsk).
 <!--
 **dmitry-makovsky/dmitry-makovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
