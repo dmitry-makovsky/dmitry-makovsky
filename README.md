@@ -1,6 +1,6 @@
 ## Hi GitHub 👋
 
-My name is Dmitry, I am a Full Stack Web Developer from Russia.
+My name is Dmitry, I am a Fullstack JS Developer from Russia.
 
 Javascript is my main programming language.
 
