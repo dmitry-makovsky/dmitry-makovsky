@@ -2,7 +2,7 @@
 
 My name is Dmitry, I am a Fullstack JS Developer from Russia.
 
-Javascript is my main programming language.
+
 
 You can contact me by [email](mailto:dima@makovsky.me) or [telegram](https://t.me/d_mkvsk).
 <!--
